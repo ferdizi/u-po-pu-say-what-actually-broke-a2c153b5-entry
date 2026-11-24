@@ -1,0 +1,1 @@
+The app ran out of memory because it tried to remember every tab you swore you'd read later. Close a few, restart, and it will forgive you.
